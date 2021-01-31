@@ -1,0 +1,1 @@
+.\Serially.App.exe tail COM4
